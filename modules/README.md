@@ -1,2 +1,2 @@
-# BBB i2c Training
+# Training module test programming
 * module test programming.

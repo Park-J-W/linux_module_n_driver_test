@@ -1,0 +1,8 @@
+#
+# RTC class/drivers configuration
+#
+
+config HELLO_VERSION
+	tristate "hello version test module"
+	help
+	  This module just print kernel version to debug console.
